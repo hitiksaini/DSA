@@ -1,4 +1,5 @@
 # Data-Structures
 
-An All in one Repoistory for learning and exploring Data Structures.
-If you have soemthing to contribute for this repo, feel free to create <b>pull requests
+## What are they?
+Data Structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
+In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification.
