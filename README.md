@@ -13,3 +13,4 @@ Its the amount of memory space required by the algorithm, during the course of i
 Time Complexity is a way to represent the amount of time required by the program to run till its completion. It's generally a good practice to try to keep the time required minimum, so that our algorithm completes it's execution in the minimum time possible.
 
 # Types of DS
+<img src="https://raw.githubusercontent.com/hitiksaini/Data-Structures/master/other_data/types.jif">
