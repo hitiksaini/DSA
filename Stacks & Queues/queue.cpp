@@ -1,9 +1,6 @@
 #include<iostream>
-
 using namespace std;
-
 #define SIZE 10
-
 class Queue
 {
     int a[SIZE];
@@ -15,13 +12,11 @@ class Queue
     {
         rear = front = -1;
     }
-    
     //declaring enqueue, dequeue and display functions
     void enqueue(int x);     
     int dequeue();
     void display();
 };
-
 // function enqueue - to add data to queue
 void Queue :: enqueue(int x)
 {
@@ -37,13 +32,11 @@ void Queue :: enqueue(int x)
         a[++rear] = x;
     }
 }
-
 // function dequeue - to remove data from queue
 int Queue :: dequeue()
 {
     return a[++front];  // following approach [B], explained above
 }
-
 // function to display the queue elements
 void Queue :: display()
 {
@@ -53,7 +46,6 @@ void Queue :: display()
         cout << a[i] << endl;
     }
 }
-
 // the main function
 int main()
 {
@@ -68,8 +60,6 @@ int main()
     q.dequeue();
     q.dequeue();
     q.enqueue(1004);
-    
     q.display();
-    
     return 0;
 }
