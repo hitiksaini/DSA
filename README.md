@@ -19,7 +19,7 @@ Time Complexity is a way to represent the amount of time required by the program
 ## Sorting Algorithms
 ....
 
-# Types of DS
+## Types of DS
 <img src="https://raw.githubusercontent.com/hitiksaini/Data-Structures/master/other_data/types.png">
 
 
