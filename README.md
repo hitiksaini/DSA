@@ -19,10 +19,10 @@ Time Complexity is a way to represent the amount of time required by the program
 Note: Space and time complexity is well discussed as comments in the code(few are left, will be done soon)
 
 ## Sorting Algorithms
-....
+I have added few of the sorting algorithms more will be added soon.
 
 ## Types of DS
 <img src="https://raw.githubusercontent.com/hitiksaini/Data-Structures/master/other_data/types.png">
 
 
-### Note: this repo is under progress currently.
+### Note: this repo is under progress currently, contact if you think you can help to make it more awesome.
