@@ -15,3 +15,8 @@ if(result == -1):
     print("Element not found")
 else:
     print("Element found at index: ", result)
+
+# Time Complexity: O(n)
+
+
+# Space Complexity: O(1)
