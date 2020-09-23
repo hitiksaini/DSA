@@ -1,14 +1,14 @@
 # Data-Structures and Algorithms
 ## by [Hitik Saini](https://hitik20.tech/)
+### We can learn DS by diving it in these three subdomains-
+* ANALYSIS
+* SORTING ALGORITHMS
+* DATA STRUCTURE
 
 ## What is a Data Structure ?
 Data Structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
 In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification.
 <img src="https://raw.githubusercontent.com/hitiksaini/Data-Structures/master/other_data/types.png">
-### We can learn DS by diving it in these three subdomains-
-* ANALYSIS
-* SORTING ALGORITHMS
-* DATA STRUCTURE
 
 ## What is an Algorithm ? 
 An algorithm is a set of well-defined instructions in sequence to solve a problem. In an easy saying, an algorithm is nothing but a mention of steps to solve a problem. They are essentially a solution.
