@@ -1,5 +1,4 @@
 # Data-Structures and Algorithms
-### Collection of various Data Structures. 
 ## by [Hitik Saini](https://hitik20.tech/)
 
 ## What is a Data Structure ?
