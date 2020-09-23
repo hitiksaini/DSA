@@ -40,3 +40,16 @@ def radixSort(array):
 data = [121, 432, 564, 23, 1, 45, 788]
 radixSort(data)
 print(data)
+
+# Complexity
+# Since radix sort is a non-comparative algorithm, it has advantages over comparative sorting algorithms.
+
+# For the radix sort that uses counting sort as an intermediate stable sort, the time complexity is O(d(n+k)).
+
+# Here, d is the number cycle and O(n+k) is the time complexity of counting sort.
+
+# Thus, radix sort has linear time complexity which is better than O(nlog n) of comparative sorting algorithms.
+
+# If we take very large digit numbers or the number of other bases like 32-bit and 64-bit numbers then it can perform in linear time however the intermediate sort takes large space.
+
+# This makes radix sort space inefficient. This is the reason why this sort is not used in software libraries.
