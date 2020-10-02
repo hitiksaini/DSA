@@ -1,5 +1,5 @@
 # Data-Structures and Algorithms
-## by [Hitik Saini](https://hitik20.tech/) & Prakhar Srivastava()
+## by [Hitik Saini](https://hitik20.tech/) & [Prakhar Srivastava](https://www.linkedin.com/in/prakhar-srivastava-14b660193/)
 ### We can learn DS by diving it in these three subdomains-
 * ANALYSIS
 * SORTING ALGORITHMS
