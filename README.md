@@ -43,4 +43,4 @@ There are various type of sorting techniques, few of them are:
 * Radix Sort
 * Bucket Sort <br>
 
-Most of them are already added, more will be added soon.
+To contribute in this project, create PRs with proper decription of your work done for this project. 
