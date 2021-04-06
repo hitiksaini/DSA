@@ -25,7 +25,7 @@ Graphs are commonly represented in two ways:
 * <b>Adjacency Matrix : </b> An adjacency matrix is a 2D array of V x V vertices. Each row and column represent a vertex. If the value of any element a[i][j] is 1, it represents that there is an edge connecting vertex i and vertex j.
 
 The adjacency matrix for a graph is shown below
-<img width="650px" src="https://cdn.programiz.com/sites/tutorial2program/files/adjacency-matrix_1.png" />
+<img width="750px" src="https://cdn.programiz.com/sites/tutorial2program/files/adjacency-matrix_1.png" />
 
 Since it is an undirected graph, for edge (0,2), we also need to mark edge (2,0); making the adjacency matrix symmetric about the diagonal.
 
@@ -35,7 +35,7 @@ Edge lookup(checking if an edge exists between vertex A and vertex B) is extreme
 
 The adjacency list for the graph we made in the first example is as follows:
 
-<img src="https://cdn.programiz.com/sites/tutorial2program/files/adjacency-list.png" width="850px" />
+<img src="https://cdn.programiz.com/sites/tutorial2program/files/adjacency-list.png" width="650px" />
 
 An adjacency list is efficient in terms of storage because we only need to store the values for the edges. For a graph with millions of vertices, this can mean a lot of saved space.
 
