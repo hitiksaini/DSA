@@ -1,5 +1,5 @@
 # Data-Structures and Algorithms
-Get code implementation of various Algorithms with explainations.
+Code implementation of various algorithms and DS concepts with explainations.
 
 ### We can learn DS by diving it in these three subdomains-
 * ANALYSIS
