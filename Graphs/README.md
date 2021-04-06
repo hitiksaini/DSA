@@ -35,7 +35,7 @@ Edge lookup(checking if an edge exists between vertex A and vertex B) is extreme
 
 The adjacency list for the graph we made in the first example is as follows:
 
-<img src="https://cdn.programiz.com/sites/tutorial2program/files/adjacency-list.png" width="650px" />
+<img src="https://cdn.programiz.com/sites/tutorial2program/files/adjacency-list.png" width="750px" />
 
 An adjacency list is efficient in terms of storage because we only need to store the values for the edges. For a graph with millions of vertices, this can mean a lot of saved space.
 
