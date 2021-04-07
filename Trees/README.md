@@ -29,3 +29,29 @@ Visit <b>root</b> node -> Visit all the nodes in the left subtree -> Visit all t
 #### `Postorder traversal`
 Visit all the nodes in the left subtree -> Visit all the nodes in the right subtree -> Visit the <b>root</b> node
 
+### Types of Trees
+
+#### `Binary Tree`
+A binary tree is a tree data structure in which each parent node can have at most two children.A node of a binary tree is represented by a structure containing a data part and two pointers to other structures of the same type.
+
+        struct node
+        {
+         int data;
+         struct node *left;
+         struct node *right;
+        };
+
+#### `Binary Search Tree`
+Binary Search Tree (BST) is a binary tree extension with several optional restrictions. The left child value of a node should in BST be less than or equal to the parent value, and the right child value should always be greater than or equal to the parent’s value. It is called a search tree because it can be used to search for the presence of a number in **`O(log(n))`** time.
+![bst](https://cdn.programiz.com/sites/tutorial2program/files/bst-vs-not-bst.png)
+
+This Binary Search Tree property makes it ideal for search operations since we can accurately determine at each node whether the value is in the left or right sub-tree. This is why the Search Tree is named.
+`The space complexity for all the operations is O(n).`
+
+Binary Search Tree Applications
+* In multilevel indexing in the database
+* For dynamic sorting
+* For managing virtual memory areas in Unix kernel
+
+#### `AVL Tree`
+
