@@ -15,3 +15,18 @@ Other data structures such as arrays, linked list, stack, and queue are linear d
 * Height of a Tree : The height of a Tree is the height of the root node or the depth of the deepest node.
 * Degree of a Node : The degree of a node is the total number of branches of that node.
 * Forest : A collection of disjoint trees is called a forest.You can create a forest by cutting the root of a tree.
+
+Remember that our goal is to visit each node, so we need to visit all the nodes in the subtree, visit the root node and visit all the nodes in the right subtree as well. Depending on the order in which we do this, there can be three types of traversal.
+
+### Tree Traversal
+
+#### `Inorder traversal`
+First, visit all the nodes in the left subtree -> Then the root node -> Visit all the nodes in the right subtree
+
+#### `Preorder traversal`
+Visit root node -> Visit all the nodes in the left subtree -> Visit all the nodes in the right subtree
+
+#### `Postorder traversal`
+Visit all the nodes in the left subtree -> Visit all the nodes in the right subtree -> Visit the root node
+
+We don't have to create the stack ourselves because recursion maintains the correct order for us.
