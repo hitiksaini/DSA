@@ -21,12 +21,11 @@ Remember that our goal is to visit each node, so we need to visit all the nodes 
 ### Tree Traversal
 
 #### `Inorder traversal`
-First, visit all the nodes in the left subtree -> Then the root node -> Visit all the nodes in the right subtree
+First, visit all the nodes in the left subtree -> Then the <b>root</b> node -> Visit all the nodes in the right subtree
 
 #### `Preorder traversal`
-Visit root node -> Visit all the nodes in the left subtree -> Visit all the nodes in the right subtree
+Visit <b>root</b> node -> Visit all the nodes in the left subtree -> Visit all the nodes in the right subtree
 
 #### `Postorder traversal`
-Visit all the nodes in the left subtree -> Visit all the nodes in the right subtree -> Visit the root node
+Visit all the nodes in the left subtree -> Visit all the nodes in the right subtree -> Visit the <b>root</b> node
 
-We don't have to create the stack ourselves because recursion maintains the correct order for us.
