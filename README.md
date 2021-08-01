@@ -1,5 +1,7 @@
 # Data-Structures and Algorithms
-Code implementation of various algorithms and DS concepts with explainations.
+Code implementation of various algorithms and DS concepts with explanations.
+
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/hitiksaini/Data-Structures-and-Algorithms/issues)
 
 ### We can learn DS by diving it in these three subdomains-
 * ANALYSIS
@@ -43,5 +45,3 @@ There are various type of sorting techniques, few of them are:
 * Heap Sort
 * Radix Sort
 * Bucket Sort <br>
-
-To contribute in this project, create PRs with proper decription of your work done for this project. 
